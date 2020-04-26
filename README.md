@@ -1,29 +1,3 @@
-# README #
+# Progressive Massachusetts #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+As an exercise, I am redesigning and building a new WordPress website for Progressive Massachusetts (https://www.progressivemass.com/) as their current site is dated and not responsive. If I'm happy with the result, I'll reach out to them with my ideas and see if they'd like to work together to update their online presence!
