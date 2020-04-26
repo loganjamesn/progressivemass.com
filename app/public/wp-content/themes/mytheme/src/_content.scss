@@ -1,0 +1,50 @@
+body {
+	background: $c_white;
+	//background: url('../screenshot.png');
+}
+
+.widget {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.page-wrap {
+	padding: 2rem 0;
+}
+
+#{$all-buttons} {
+  background-color: $c-orange;
+  transition: all 0.2s ease;
+}
+#{$all-buttons-hover} {
+	background-color: tint($c-orange, 10%);
+} 
+
+
+// Post Navigation
+.nav__posts {
+	.prev-link,
+	.next-link {
+		background: whitesmoke;
+		padding: 40px;
+		width: 100%;
+		height: 100%;
+		a {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			opacity: 0;
+			left: 0;
+			top: 0;
+			z-index: 99;
+		}
+	}
+}
+
+// Legislator Scorecard
+#legislatorScorecard {
+	width: 100%;
+	min-height: 100vh;
+	border: 0;
+}
